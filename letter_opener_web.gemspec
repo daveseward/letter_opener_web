@@ -21,9 +21,9 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'actionmailer', '~> 4.2'
   gem.add_dependency 'letter_opener', '~> 1.7'
-  gem.add_dependency 'railties', '~> 5.2'
+  gem.add_dependency 'railties', '~> 4.2'
  
-  gem.add_development_dependency 'rails', '~> 5.2.0'
+  gem.add_development_dependency 'rails', '~> 4.2'
   gem.add_development_dependency 'rspec-rails', '~> 3.8'
   gem.add_development_dependency 'rubocop', '~> 0.65'
   gem.add_development_dependency 'shoulda-matchers', '~> 4.0'
